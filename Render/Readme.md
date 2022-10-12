@@ -27,4 +27,4 @@ Intro.blend
 This file contains the final model for the intro. The various models stated above is appended into one single blend file to create the final rendered image. A black plane is used on which the models has been assembeled. A yellow colored plane is used to bring a design to the background plane. This plane would modelled into a path in the future. The candle object replaces the I in the text and a human object replaces the T in the text. There are 2 other humans walking on the yellow plane. On the right hand corner we can see a bullet being fired from the revolver. Colors of the objects is done from the material properties panel.
 
 Intro.png
-This is the final rendered image of the intro
+This is the final rendered image of the intro. The image was rendered using Cycles engine at 1920x1080 resolution. The sampled for the render is 1200 and glare was in the composition, which unfortunately doesn't make much of a difference considering the lights in the scene.
