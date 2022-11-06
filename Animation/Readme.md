@@ -7,3 +7,6 @@ Under file I created a new basic level. I deleted the ground level as it wasn't 
 In the fbx import options, I checked Build Nanite Option and clicked import all. There were some warning messages, but as it doesn't affect my project, I ignored it and opened the content browser. 
 From there I selected all the meshes and I dragged it into the scene. 
 I added a new CineCameraActor. The filmback settings is 16:9 DSLR and changed the focus length to my requirement.
+
+Animating the objects in Unreal Engine:
+
