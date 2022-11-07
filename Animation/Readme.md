@@ -26,3 +26,6 @@ In the settings panel , I changed the output option from .jpg sequence to .png s
 In the output settings, I changed to fps to 24 fps(film). 
 From the add panel, I selected anti-aliasing. Set the temporal samples to 32 and turned on Override Anti Aliasing. And then I choose render local option.
 The ouput came in 128 images. I converted these images into .mp4 video.
+
+
+PS: I have included the .fbx file in the repo. While downloading the Unreal_Project folder, please change it's name to Animation. I have also excluded the MovieRenders folder which contains the rendered image as it's too large to be uploaded.
