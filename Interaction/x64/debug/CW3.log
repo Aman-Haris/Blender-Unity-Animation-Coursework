@@ -1,0 +1,14 @@
+﻿  Main.cpp
+D:\3DMA\CW3\Main.cpp(91,10): error C2661: 'VBO::VBO': no overloaded function takes 2 arguments
+D:\3DMA\CW3\Main.cpp(91,10): message : while trying to match the argument list '(GLfloat [40], size_t)'
+D:\3DMA\CW3\Main.cpp(93,10): error C2661: 'EBO::EBO': no overloaded function takes 2 arguments
+D:\3DMA\CW3\Main.cpp(93,10): message : while trying to match the argument list '(GLuint [18], size_t)'
+D:\3DMA\CW3\Main.cpp(116,18): error C2661: 'Texture::Texture': no overloaded function takes 5 arguments
+D:\3DMA\CW3\Main.cpp(116,18): message : while trying to match the argument list '(const _Elem *, int, int, int, int)'
+          with
+          [
+              _Elem=char
+          ]
+D:\3DMA\CW3\Main.cpp(144,9): error C2660: 'Camera::Matrix': function does not take 5 arguments
+D:\3DMA\CW3\Camera.h(40,7): message : see declaration of 'Camera::Matrix'
+D:\3DMA\CW3\Main.cpp(144,9): message : while trying to match the argument list '(float, float, float, Shader, const char [10])'
