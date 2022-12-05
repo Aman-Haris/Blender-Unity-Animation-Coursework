@@ -42,6 +42,16 @@ Mesh.cpp program actually draws and activates the mesh by collecting all the nec
 
 Loading the model:
 
+The models have been exported in the .gltf file format from the blender.
+A json.h header file is created to parse json files as gltf format uses json file structure.
+A Model.h header file is defined to load in a model from the file and to store its data.
+A Model.cpp file is used to load and parse the model into json file structure.
+The model is loaded using the code: "Model model("Models/Human.gltf");" which is coded in the Main.cpp file.
+
+Reference:
+"OpenGL Course - Create 3D and 2D Graphics With C++" by freeCodeCamp.org
+
+
   
   
   
